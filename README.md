@@ -28,6 +28,36 @@
 
 <HR>
 
+##### **EP181 - 轻量化的多系统引导工具！XORBOOT使用指南**
+
+● XORBOOT（来自无忧启动论坛@Pauly大佬）：http://bbs.wuyou.net/forum.php?mod=viewthread&tid=157812
+
+● XORBOOT：https://pan.quark.cn/s/eccd00bf9ce4
+
+● DiskGenius：https://pan.quark.cn/s/8e4f3a3d04f7 (提取码：pN75)
+
+● EasyUEFI：https://pan.quark.cn/s/aa6412345b7a （提取码：4K8a）
+
+<HR>
+
+##### **EP180 - 六边形（物理）战士，百元级桌面音响，漫步者M30Plus上手体验**
+
+● <font color="#FF8C00">漫步者M30PLUS桌面音响：</font>[点此查看](https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAOwJK1olXwMLXFlUDkISA18IGloVXQcEVltdCE4nRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoXA24OGV4VXQMdDRsBVXtACg1-Xh1sHWR3ACkJYDRQBGtKSTl1UQoyVW5eCUkXCm4MH14dbTYCU24LZksWAm4JGloVVAAyVW5dDksfAmwAHFMRXQcDZFldAXtRVzBNQwtKG1JdOgJtOHsUM2gIEk8TL0dQQFgvOHsXM2w4K1kUXAILZG5tezdUQ2kJZ1lpJVhXN1s7bDJ3S2t2ThNFMwR3Iw4iUhVKRxNSeDhJImRKNm5YOA)
+
+
+
+
+
+<HR>
+
+##### **EP179 - 开会用电视还是投影？商用投影仪如何选？聊聊明基E545专业办公投影仪**
+
+● <font color="#FF8C00">明基E545商务智能投影仪：</font>[点此查看](https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BARUJK1olXwQAVVlcDEgRBF8IGloUVAcEVl5ZDE0nRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoWCm4OGVsRWQAdDRsBVXsRXg4ARhh8LmZqVwEndk9MdQp2fAZTUQoyVW5eCUkXCm4MH14dbTYCU24fZhhDXC_fsuTB843V7_qJhMvAruQ4GmsVWwYKVV1VDE0eC2wPK1wVVDZEAAEYUBtIRTtXdQclbTYBZFldAV8RcS5aD11nbTYCZF1tCEoXC2wNGVsQXwceVF1YAUkQH28OG1MUXg4GUltUAUgnAW4JH1IlbTZXBCIBQypMBDR3eV1hOEJJFh1bewttWS5mGQNLIUNxVgMiUz9iWhBcUBJCbQMy)
+
+
+
+<HR>
+
 ##### **EP178 - 都回来了！全新黑群晖引导RRORG使用指南！**
 
 #<font color="#DB7093">黑群晖是个比较敏感的东西，为了限制传播范围，让工具得以更长时间的存活，本期视频已全网下架，视频的源文件我会上传到网盘，你可以下载它作为RRORG引导安装时的参考教程，但请勿二次上传转载（已加水印），抱歉，参与RR项目的制作者们，respect</font>
