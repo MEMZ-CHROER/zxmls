@@ -28,6 +28,26 @@
 
 <HR>
 
+##### **EP182 - 魔改版SteamOS，sk-ChimeraOS安装使用指南及性能测试**
+
+● SteamOS（官网）：https://store.steampowered.com/steamos/buildyourown?l=schinese
+
+● ChimeraOS（官网）：https://chimeraos.org
+
+● sk-ChimeraOS（官网）：https://flowus.cn/honjow/share/a865ae01-3bc2-426a-981b-3f16a589cc61
+
+● sk-ChimeraOS（下载）：https://pan.quark.cn/s/9faed34af610
+
+● FirPE（官网）：https://firpe.cn/page-247
+
+● FirPE：https://pan.quark.cn/s/4940601c52b5
+
+● DiskGenius：https://pan.quark.cn/s/8e4f3a3d04f7 (提取码：pN75)
+
+
+
+<HR>
+
 ##### **EP181 - 轻量化的多系统引导工具！XORBOOT使用指南**
 
 ● XORBOOT（来自无忧启动论坛@Pauly大佬）：http://bbs.wuyou.net/forum.php?mod=viewthread&tid=157812
