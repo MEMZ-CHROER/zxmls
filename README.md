@@ -38,6 +38,8 @@
 
 ● sk-ChimeraOS（下载）：https://pan.quark.cn/s/9faed34af610
 
+● sk-ChimeraOS（备链）：https://pan.quark.cn/s/209857d32113
+
 ● FirPE（官网）：https://firpe.cn/page-247
 
 ● FirPE：https://pan.quark.cn/s/4940601c52b5
