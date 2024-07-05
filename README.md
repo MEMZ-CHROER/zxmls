@@ -28,6 +28,20 @@
 
 <HR>
 
+##### **EP183 - 用Windows来做NAS系统，靠谱吗？**
+
+● NAS-CAB（官网）：https://www.nas-cab.com
+
+● NAS-CAB：https://pan.quark.cn/s/490040e90918
+
+● TMM4.2.8：https://pan.quark.cn/s/51d9bfb8ef71 (提取码：iGSj)
+
+● <font color="#FF8C00">奥睿科5盘位磁盘阵列柜：</font>[点此查看](https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAQsJK1olVQ8KVl1aD0MWM28JGlsVWAULVVhZC3tTXDdWRGtMGENDFlVDFhNSVzMXQA4KD1heSl5cCUsXBmwBGl0RXhlbEQIAOExCfAlIZDJFP0VCCCQ6D0ltQgxqQzsZUTYDZF1cCkseAmsMHlMlbQYFZAgzCEoWAm4JGlgSVDYDZF5bC0oXBm8LGF0QWQIyU15UOA1DXCpQSwRTCVlsCG5tOEgnBG8BD11nHFQWUixtOEsnAF8IGlsdXQUKV1ZVAVcXB2wNElkJXQABVV5YCEgUAW0AG2sXXAcGXW5tOAtQWhRrWyJrDlJwBhwbdjhXcy8MGTNcLmgFFBhUaCJfADxxciBuIARVHwdtDXs)
+
+
+
+<HR>
+
 ##### **EP182 - 魔改版SteamOS，sk-ChimeraOS安装使用指南及性能测试**
 
 ● SteamOS（官网）：https://store.steampowered.com/steamos/buildyourown?l=schinese
@@ -45,6 +59,8 @@
 ● FirPE：https://pan.quark.cn/s/4940601c52b5
 
 ● DiskGenius：https://pan.quark.cn/s/8e4f3a3d04f7 (提取码：pN75)
+
+● <font color="#FF8C00">积核AX8PRO迷你主机：</font>[点此查看](https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAQwJK1olXwUHUl9YDUIfAV8IGloVXQIGU1lbDUInRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoXA2sMHFwTWA8dDRsBVXtTVzdKcygdXGUEHAE1XB9tUSZcYAxTUQoyVW5eCUkXCm4MH14dbTYCU24LZksWAm4NHloQXAQyVW5dDkgWA2oIG1wTXgcHZFldAXtRVzBNQwtKG1JdOgJtOHsUM2gIEk8TL0dQQFgvOHsXM2w4G1oVVQQDVl1dCEMLA2sBGFgcQQYEV19dDUsXBGoAG1klXwcDUFdtOHtRWxlxRicVOQZWPTYPTCN_aCZOSQlFNG9sVg4fATJRARluGyMWWQ4KC1hcOE4n)
 
 
 
@@ -2004,7 +2020,7 @@ include themes/rEFInd-minimal/theme.conf
 
 ● AX6S开发版固件1.2.7：https://pan.quark.cn/s/0c795a87a5f4 （提取码：H5mR）
 
-● AX6S Openwrt固件：https://pan.quark.cn/s/be7d2524cb00
+● AX6S Openwrt固件：https://pan.quark.cn/s/abbae30798fe
 
 ● WinSCP官网：https://pan.quark.cn/s/2b517154e475 （提取码：zuWN）
 
