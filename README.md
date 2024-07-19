@@ -28,11 +28,44 @@
 
 <HR>
 
+
+##### **EP188 - 坏了，这回真成小钢炮了？AYANEO AIR 1S 8840U游戏体验及性能分析**
+
+● <font color="#FF8C00">AYANEO AIR 1S 8840U：</font>[点此查看](https://ayaneo.com.cn/product/AYANEOAIR1S.html)
+
+
+
+<HR>
+
+
+
+**EP187 - 暂未上线**
+
+
+
+<HR>
+
+
+
+**EP186 - 暂未上线**
+
+
+
+<HR>
+
+
+
+**EP185 - 暂未上线**
+
+
+
+<HR>
+
 ##### **EP184 - 所有机型通用！私人云系统，CasaOS安装指南**
 
-● CasaOS（官网）：https://www.debian.org/index.zh-cn.html
+● CasaOS（官网）：https://casaos.io
 
-● Debian（官网）：https://casaos.io
+● Debian（官网）：https://www.debian.org/index.zh-cn.html
 
 ● Debian12系统镜像：https://pan.quark.cn/s/a2dc0503dbe6
 
@@ -41,8 +74,6 @@
 ● BalenaEtcher：https://pan.quark.cn/s/dd0eb5dac656
 
 ● MobaXterm（官网）：https://mobaxterm.mobatek.net
-
-● MobaXterm：https://pan.quark.cn/s/a7bc3a895d84
 
 ● daemon.josn（可能会失效）：https://pan.quark.cn/s/e2bccf356a38
 
@@ -569,8 +600,6 @@ ls install.sh
 
 ● MobaXterm（官网）：https://mobaxterm.mobatek.net
 
-● MobaXterm：https://pan.quark.cn/s/a7bc3a895d84
-
 ● 虚拟机专用MacOS系统镜像：https://pan.quark.cn/s/9e7ed6d26d09
 
 ● KVM-OpenCore引导：https://pan.quark.cn/s/5f26761f4850
@@ -651,8 +680,6 @@ System\Library\CoreServices\Boot.efi
 
 ● MobaXterm（官网）：https://mobaxterm.mobatek.net
 
-● MobaXterm：https://pan.quark.cn/s/a7bc3a895d84
-
 ● pve_source脚本：https://wwp.lanzoul.com/ivHta1ngmo6d （密码:i1ws）
 
 ○ 以下为需要敲的代码
@@ -686,8 +713,6 @@ tar zxvf pve_source.tar.gz
 ● BalenaEtcher：https://pan.quark.cn/s/dd0eb5dac656
 
 ● MobaXterm（官网）：https://mobaxterm.mobatek.net
-
-● MobaXterm：https://pan.quark.cn/s/a7bc3a895d84
 
 ● OpenWRT（安装镜像）：https://pan.quark.cn/s/63cda803abeb
 
@@ -1124,8 +1149,6 @@ bash runme.sh
 
 ● MobaXterm（官网）：https://mobaxterm.mobatek.net/download-home-edition.html
 
-● MobaXterm：https://pan.quark.cn/s/a7bc3a895d84
-
 
 
 <HR>
@@ -1179,8 +1202,6 @@ bash runme.sh
 ● BalenaEtcher（官网）：https://www.balena.io/etcher
 
 ● MobaXterm（官网）：https://mobaxterm.mobatek.net/download-home-edition.html
-
-● MobaXterm：https://pan.quark.cn/s/a7bc3a895d84
 
 ● *设置Smaba密码的代码（在MobaXterm里输入）*
 
@@ -1277,8 +1298,6 @@ export url='https://raw.fastgit.org/juewuy/ShellClash/master' && sh -c "$(curl -
 ● 小米路由器ROOT密码计算网站（本地离线版）：https://pan.quark.cn/s/c2fd132315aa (提取码：uRXQ)
 
 ● MobaXterm（官网）：https://mobaxterm.mobatek.net/download-home-edition.html
-
-● MobaXterm：https://pan.quark.cn/s/a7bc3a895d84
 
 
 
@@ -1613,8 +1632,6 @@ magnet:?xt=urn:btih:84a9c3c817073e64b2ece7a9a6d6ea47782cdc88&dn=zh-cn_windows_10
 ● 晶晨烧录工具：https://pan.quark.cn/s/7de50fb2a8e5 （提取码：sSut）
 
 ● MobaXterm（官网）：https://mobaxterm.mobatek.net/download-home-edition.html
-
-● MobaXterm：https://pan.quark.cn/s/a7bc3a895d84
 
 ○ 以下是需要敲的代码：
 
@@ -2082,8 +2099,6 @@ include themes/rEFInd-minimal/theme.conf
 
 ● MobaXterm（官网）：https://mobaxterm.mobatek.net/download-home-edition.html
 
-● MobaXterm：https://pan.quark.cn/s/a7bc3a895d84
-
 ● Kodi 安卓客户端：https://kodi.tv/download
 
 ● Kodi Jellyfin插件库：https://pan.quark.cn/s/82a2516a82e7 （提取码：wUgh）
@@ -2110,8 +2125,6 @@ include themes/rEFInd-minimal/theme.conf
 
 ● MobaXterm（官网）：https://mobaxterm.mobatek.net/download-home-edition.html
 
-● MobaXterm：https://pan.quark.cn/s/a7bc3a895d84
-
 
 
 <HR>
@@ -2119,8 +2132,6 @@ include themes/rEFInd-minimal/theme.conf
 ##### **EP61 - 刷入OpenWrt变身软路由，红米AX6S路由器折腾记**
 
 ● MobaXterm（官网）：https://mobaxterm.mobatek.net/download-home-edition.html
-
-● MobaXterm：https://pan.quark.cn/s/a7bc3a895d84
 
 ● AX6S开发版固件1.2.7：https://pan.quark.cn/s/0c795a87a5f4 （提取码：H5mR）
 
